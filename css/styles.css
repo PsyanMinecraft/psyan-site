@@ -18,3 +18,11 @@ table {
 blockquote {
     font-style: italic;
 }
+ul {
+    background-color: lightgrey;
+    list-style: none;
+    padding: 20px;
+}
+li {
+    background-color: white;
+}
